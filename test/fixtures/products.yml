@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  description: MyText
+  price: 
+  wattage: 1
+  eco_friendly: false
+
+two:
+  type: 
+  description: MyText
+  price: 
+  wattage: 1
+  eco_friendly: false

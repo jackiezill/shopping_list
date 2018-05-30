@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item: MyString
+  quantity: MyString
+  interger: MyString
+  price: MyString
+  ships: MyString
+  boolean: MyString
+
+two:
+  item: MyString
+  quantity: MyString
+  interger: MyString
+  price: MyString
+  ships: MyString
+  boolean: MyString

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  residential: MyString
+  commercial: MyString
+  smart_lights: MyString
+  energy_efficient: MyString
+
+two:
+  residential: MyString
+  commercial: MyString
+  smart_lights: MyString
+  energy_efficient: MyString
